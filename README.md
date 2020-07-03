@@ -56,3 +56,6 @@ A list of very good open-source tools et cetera for mainly unix-based systems.
 - [Pipes.sh](https://github.com/pipeseroni/pipes.sh)
 - [Cmatrix](https://github.com/abishekvashok/cmatrix)
 
+## Browsers
+- [Brave](https://github.com/brave/brave-browser)
+
