@@ -68,7 +68,7 @@ intention: not having 1000 stars on github
 
 ## IDEs
 
-- [pycharm](https://www.jetbrains.com/pycharm/)
+- [intellij ce](https://github.com/JetBrains/intellij-community)
 
 ## download managers
 
