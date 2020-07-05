@@ -1,6 +1,6 @@
 # awesome-unix
 
-a list of very good open-source tools / software for mainly unix-based / unix-like systems.
+a list of very good open-source software for mainly unix-based / unix-like systems.
 
 ## terminal
 
@@ -10,6 +10,7 @@ a list of very good open-source tools / software for mainly unix-based / unix-li
 - [hyper](https://github.com/vercel/hyper)
 - [edex-ui](https://github.com/GitSquared/edex-ui)
 - [cool retro term](https://github.com/Swordfish90/cool-retro-term)
+- [termux](https://github.com/termux/termux-app)
 
 ### themes
 
@@ -23,6 +24,8 @@ a list of very good open-source tools / software for mainly unix-based / unix-li
 
 ### command-line tools
 
+- [bat](https://github.com/sharkdp/bat)
+- [brew](https://github.com/Homebrew/brew)
 - [neofetch](https://github.com/dylanaraps/neofetch)
 - [lolcat](https://github.com/busyloop/lolcat)
 - [fzf](https://github.com/junegunn/fzf)
@@ -30,7 +33,10 @@ a list of very good open-source tools / software for mainly unix-based / unix-li
 - [cli visualizer](https://github.com/dpayne/cli-visualizer)
 - [sherlock](https://github.com/sherlock-project/sherlock)
 - [spotify tui](https://github.com/Rigellute/spotify-tui)
+- [scrcpy](https://github.com/Genymobile/scrcpy)
+- [speedtest-cli](https://github.com/sivel/speedtest-cli)
 - [qrcp](https://github.com/claudiodangelis/qrcp)
+- [irssi](https://github.com/irssi/irssi)
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl)
 - [nativefier](https://github.com/jiahaog/nativefier)
 - [mkcert](https://github.com/FiloSottile/mkcert)
@@ -42,6 +48,7 @@ a list of very good open-source tools / software for mainly unix-based / unix-li
 
 ## text editors
 
+- [nvim](https://github.com/neovim/neovim)
 - [vim](https://github.com/vim/vim)
 - [vscode](https://github.com/microsoft/vscode)
 - [atom](https://github.com/atom/atom)
@@ -82,3 +89,8 @@ a list of very good open-source tools / software for mainly unix-based / unix-li
 ### chromium based
 
 - [brave](https://github.com/brave/brave-browser)
+
+## password managers
+
+- [macpass](https://github.com/MacPass/MacPass)
+- [keepassxc](https://github.com/keepassxreboot/keepassxc)
