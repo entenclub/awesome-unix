@@ -10,6 +10,7 @@ a list of very good open-source tools / software for mainly unix-based / unix-li
 - [hyper](https://github.com/vercel/hyper)
 - [edex-ui](https://github.com/GitSquared/edex-ui)
 - [cool retro term](https://github.com/Swordfish90/cool-retro-term)
+- [st](https://git.suckless.org/st/)
 
 ### themes
 
