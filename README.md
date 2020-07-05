@@ -1,7 +1,7 @@
 # awesome-unix
 
-a list of very good open-source software for mainly unix-based / unix-like systems.
-
+a list of very good open-source software for mainly unix-based / unix-like systems. <br>
+intention: not having 1000 stars on github
 ## terminal
 
 ### emulators
@@ -55,8 +55,16 @@ a list of very good open-source software for mainly unix-based / unix-like syste
 
 ## vscode extensions
 
+- [auto rename tag](https://github.com/formulahendry/vscode-auto-rename-tag)
+- [better comments](https://github.com/aaron-bond/better-comments)
+- [bracket pair colorizer](https://github.com/CoenraadS/Bracket-Pair-Colorizer-2)
 - [latex workshop](https://github.com/James-Yu/LaTeX-Workshop)
 - [vscode spotify](https://github.com/ShyykoSerhiy/vscode-spotify)
+- [github theme](https://github.com/primer/github-vscode-theme)
+- [live sass compiler](https://github.com/ritwickdey/vscode-live-sass-compiler)
+- [live server](https://github.com/ritwickdey/vscode-live-server)
+- [material icon theme](https://github.com/PKief/vscode-material-icon-theme)
+- [prettier](https://github.com/prettier/prettier-vscode)
 
 ## IDEs
 
@@ -84,13 +92,15 @@ a list of very good open-source software for mainly unix-based / unix-like syste
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh)
 - [cmatrix](https://github.com/abishekvashok/cmatrix)
 
-## Browsers
+## browsers
 
 ### chromium based
 
+- [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium)
 - [brave](https://github.com/brave/brave-browser)
 
 ## password managers
 
 - [macpass](https://github.com/MacPass/MacPass)
 - [keepassxc](https://github.com/keepassxreboot/keepassxc)
+
