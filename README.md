@@ -31,6 +31,7 @@ intention: not having 1000 stars on github
 - [fzf](https://github.com/junegunn/fzf)
 - [fx](https://github.com/antonmedv/fx)
 - [cli visualizer](https://github.com/dpayne/cli-visualizer)
+- [cava](https://github.com/karlstav/cava)
 - [sherlock](https://github.com/sherlock-project/sherlock)
 - [spotify tui](https://github.com/Rigellute/spotify-tui)
 - [scrcpy](https://github.com/Genymobile/scrcpy)
