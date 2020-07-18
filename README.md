@@ -10,6 +10,7 @@ intention: not having 1000 stars on github
 - [hyper](https://github.com/vercel/hyper)
 - [edex-ui](https://github.com/GitSquared/edex-ui)
 - [cool retro term](https://github.com/Swordfish90/cool-retro-term)
+- [st](https://git.suckless.org/st/)
 - [termux](https://github.com/termux/termux-app)
 
 ### themes
